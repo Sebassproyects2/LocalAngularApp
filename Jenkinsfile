@@ -2,6 +2,6 @@ pipeline{
     agent any
 
     stages{
-        stage("Primir stage")
+        stage("Primir stage del Angular app")
     }
 }
